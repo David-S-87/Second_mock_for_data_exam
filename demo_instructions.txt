@@ -1,0 +1,15 @@
+Guide users through setup and execution.
+
+To-Do List:
+
+Environment Setup:
+
+Instructions for installing required Python libraries.
+Steps to set up the MySQL database.
+Running Each Script:
+
+Command-line instructions for running each file.
+Expected outputs and troubleshooting tips.
+Common Errors:
+
+Describe potential errors and their solutions (e.g., MySQL connection issues, missing data).

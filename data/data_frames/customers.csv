@@ -1,0 +1,25 @@
+customer_id,name,age,email,signup_date
+13,Alice Johnson,28,alice@example.com,2022-01-15
+14,Bob Smith,35,bob@example.com,2021-11-10
+15,Charlie Brown,45,charlie@example.com,2023-02-20
+16,Alice Johnson,28,alice@example.com,2022-01-15
+17,Bob Smith,35,bob@example.com,2021-11-10
+18,Charlie Brown,45,charlie@example.com,2023-02-20
+19,Alice Johnson,28,alice@example.com,2022-01-15
+20,Bob Smith,35,bob@example.com,2021-11-10
+21,Charlie Brown,45,charlie@example.com,2023-02-20
+22,Alice Johnson,28,alice@example.com,2022-01-15
+23,Bob Smith,35,bob@example.com,2021-11-10
+24,Charlie Brown,45,charlie@example.com,2023-02-20
+25,Alice Johnson,28,alice@example.com,2022-01-15
+26,Bob Smith,35,bob@example.com,2021-11-10
+27,Charlie Brown,45,charlie@example.com,2023-02-20
+28,Alice Johnson,28,alice@example.com,2022-01-15
+29,Bob Smith,35,bob@example.com,2021-11-10
+30,Charlie Brown,45,charlie@example.com,2023-02-20
+31,Alice Johnson,28,alice@example.com,2022-01-15
+32,Bob Smith,35,bob@example.com,2021-11-10
+33,Charlie Brown,45,charlie@example.com,2023-02-20
+34,Alice Johnson,28,alice@example.com,2022-01-15
+35,Bob Smith,35,bob@example.com,2021-11-10
+36,Charlie Brown,45,charlie@example.com,2023-02-20
